@@ -7,4 +7,6 @@
   <a href="https://www.linkedin.com/in/shreyash-shigwan-53a765403/">LinkedIn</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="mailto:shreyashshigwan12@gmail.com">Email</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://budbax-website.vercel.app/">Website</a>
 </p>
